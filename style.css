@@ -1,0 +1,50 @@
+body {
+    margin:0px;
+    background-color: orange;
+}
+h1 {
+    height: 100px;
+    margin: 0px;
+    line-height:3;
+    font-size: 200%
+    z-index:-1;
+    width: 100%;
+    margin-top: 0px;
+}
+img {
+      width:100%;
+      margin:0px;
+      overflow:hidden;
+}
+p {
+
+}
+        .button-Home,
+        .button-ContactUs,
+        .button-Prijslijst,
+        .button-MeerInfo {
+            color: black;
+            border-radius:18px;
+            text-shadow: 0 1px 7px rgba(0, 0, 0, 0.7);
+            margin-right: 20px;
+            height:50px;
+            width: 180px;
+            font-size:170%;
+}
+
+.button-Home {
+            background-color: green;
+            border-radius:18px;
+}
+.button-ContactUs {
+            background: green;
+            border-radius:18px;
+}
+.button-Prijslijst {
+            background: green;
+            border-radius:18px;
+}
+.button-MeerInfo {
+            background: green;
+            border-radius:18px;
+}
