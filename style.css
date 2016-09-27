@@ -1,23 +1,23 @@
 body {
     margin:0px;
-    background-color: orange;
+    background-color: darkgrey;
 }
 h1 {
-    height: 100px;
     margin: 0px;
-    line-height:3;
+    line-height: 3;
     font-size: 200%
-    z-index:-1;
     width: 100%;
-    margin-top: 0px;
+    position: absolute;
+
 }
 img {
       width:100%;
       margin:0px;
       overflow:hidden;
+      z-index: -1;
 }
 p {
-
+font-style: italic;
 }
         .button-Home,
         .button-ContactUs,
@@ -33,18 +33,18 @@ p {
 }
 
 .button-Home {
-            background-color: green;
+            background-color: grey;
             border-radius:18px;
 }
 .button-ContactUs {
-            background: green;
+            background: grey;
             border-radius:18px;
 }
 .button-Prijslijst {
-            background: green;
+            background: grey;
             border-radius:18px;
 }
 .button-MeerInfo {
-            background: green;
+            background: grey;
             border-radius:18px;
 }
