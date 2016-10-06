@@ -8,7 +8,6 @@ h1 {
     font-size: 200%
     width: 100%;
     position: absolute;
-
 }
 img {
       width:100%;
@@ -18,6 +17,7 @@ img {
 }
 p {
 font-style: italic;
+text-align: center;
 }
         .button-Home,
         .button-ContactUs,
@@ -30,6 +30,7 @@ font-style: italic;
             height:50px;
             width: 180px;
             font-size:170%;
+
 }
 
 .button-Home {
@@ -47,4 +48,8 @@ font-style: italic;
 .button-MeerInfo {
             background: grey;
             border-radius:18px;
+}
+.footer {
+text-align: left;
+
 }
